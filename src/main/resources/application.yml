@@ -1,0 +1,5 @@
+server:
+  port: 9999
+
+app:
+  mainUrlRoute: http://httpbin.org:80
